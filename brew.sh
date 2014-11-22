@@ -15,6 +15,7 @@ brew install python3
 brew install git
 brew install tig
 brew install maven
+brew install ssh-copy-id
 
 brew cask install macvim
 brew cask install iterm2
@@ -35,6 +36,7 @@ brew cask install rstudio
 brew cask install picasa
 brew cask install gitx
 brew cask install lastpass-universal
+brew cask install xquartz
 
 brew cleanup
 
