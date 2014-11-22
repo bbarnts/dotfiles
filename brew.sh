@@ -31,12 +31,12 @@ brew cask install sketchup
 brew cask install intellij-idea
 brew cask install vlc
 brew cask install ynab
+brew cask install xquartz
 brew cask install r
 brew cask install rstudio
 brew cask install picasa
 brew cask install gitx
 brew cask install lastpass-universal
-brew cask install xquartz
 
 brew cleanup
 
