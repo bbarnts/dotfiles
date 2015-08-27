@@ -16,6 +16,7 @@ brew install git
 brew install tig
 brew install maven
 brew install ssh-copy-id
+brew install httpie
 
 brew cask install macvim
 brew cask install iterm2
