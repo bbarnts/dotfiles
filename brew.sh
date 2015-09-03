@@ -36,8 +36,8 @@ brew cask install xquartz
 brew cask install r
 brew cask install rstudio
 brew cask install picasa
-brew cask install gitx
 brew cask install lastpass-universal
+brew cask install laullon-gitx
 
 brew cleanup
 

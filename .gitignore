@@ -1,0 +1,12 @@
+target/
+logs/
+.DS_Store
+*log.txt
+
+# Ignore intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+*.pyc
